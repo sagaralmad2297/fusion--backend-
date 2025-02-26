@@ -1,0 +1,25 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore build artifacts
+dist/
+build/
+
+# Ignore npm/yarn cache
+.npm
+.yarn
+.yarn-cache
+
+# Ignore OS-specific files
+.DS_Store
